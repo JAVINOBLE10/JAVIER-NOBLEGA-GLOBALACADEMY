@@ -24,3 +24,4 @@ Se debe comprimir la carpeta de la tarea en un zip o rar y enviarmelo por privad
 - Para clonar el repo **git clone "enlace al repo"**
 - Para bajar descargar nuevos cambios una vez clonado **git pull** estando parado en la rama de la cual se quieren bajar cambios.
 - Para cambiarte de rama **git checkout "nombre de rama"**
+hoLas
